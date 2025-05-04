@@ -63,6 +63,10 @@ Want to play around with the code? It's easy!
     ```bash
     go run hello_world.go
     ```
+    Or if the file has a `main` package and `main` function, you can often just run the whole folder:
+    ```bash
+    go run .
+    ```
 
 ---
 
